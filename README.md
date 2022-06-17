@@ -1,5 +1,6 @@
 # Hello, World 👋
 
+- 🌱 I’m currently learning `Python-OpenCV`
 -  📫 How to reach me: [write me](vnpatil@yahoo.com)
 
 ### Tools
@@ -14,6 +15,8 @@
 
 ![](https://shields.io/badge/Numpy-blue?logo=numpy&style=for-the-badge)
 ![](https://shields.io/badge/Pandas-blue?logo=pandas&style=for-the-badge)
+![](https://shields.io/badge/MatplotLib-blue&style=for-the-badge)
+![](https://shields.io/badge/SKLearn-blue?logo=scikit-learn&style=for-the-badge)
 
 ### Databases
 
