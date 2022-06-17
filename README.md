@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hello, World 👋
 - 🔭 I’m currently working on **MongoDB**
 - 🌱 I’m currently learning **OpenCV**
-- 💬 Ask me about vnpatil@yahoo.com
+-  📫 How to reach me: [write me](vnpatil@yahoo.com)
 <!--
 **venky-patil/venky-patil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
