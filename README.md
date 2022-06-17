@@ -1,7 +1,24 @@
-### Hello, World 👋
-- 🔭 I’m currently working on **MongoDB**
-- 🌱 I’m currently learning **OpenCV**
+# Hello, World 👋
+
 -  📫 How to reach me: [write me](vnpatil@yahoo.com)
+
+### Tools
+
+![](https://shields.io/badge/Jupyter-blueviolet?logo=jupyter&style=for-the-badge)
+
+### Languages
+
+![](https://shields.io/badge/Python-green?logo=python&style=for-the-badge)
+
+### Modules
+
+![](https://shields.io/badge/Numpy-blue?logo=numpy&style=for-the-badge)
+![](https://shields.io/badge/Pandas-blue?logo=pandas&style=for-the-badge)
+
+### Databases
+
+![](https://shields.io/badge/MySQL-grey?logo=mysql&style=for-the-badge)
+![](https://shields.io/badge/MongoDB-grey?logo=mongodb&style=for-the-badge)
 <!--
 **venky-patil/venky-patil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
