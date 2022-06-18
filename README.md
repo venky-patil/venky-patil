@@ -1,7 +1,7 @@
 # Hello, World 👋
 
 - 🌱 I’m currently learning `Python-OpenCV`
--  📫 How to reach me: [Click Here]([https://github.com/venky-patil](https://github.com/venky-patil?tab=repositories))
+-  📫 How to reach me: [Click Here](https://github.com/venky-patil?tab=repositories)
 
 ### Tools
 
